@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Twitch_UserCheck</string>
+    <string name="splashscreen_text">Who\'s online \@ Twitch?</string>
+</resources>
