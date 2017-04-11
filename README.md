@@ -6,7 +6,6 @@ Streamers will be saved in a database which makes the app an eligible solution
 to quickly check if your favorite streamers are online right now.
 
 Streamers are shown in a scrollview so you can add how many as you like
-![alt tag](https://github.com/MartinBergstrom/AndroidTwitchUserCheck/blob/master/twitch.png)
 
-<img src="https://github.com/MartinBergstrom/AndroidTwitchUserCheck/blob/master/twitch.png" width="48">
+<img src="https://github.com/MartinBergstrom/AndroidTwitchUserCheck/blob/master/twitch.png" width="200">
 
