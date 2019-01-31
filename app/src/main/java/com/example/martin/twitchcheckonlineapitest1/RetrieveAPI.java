@@ -23,7 +23,7 @@ import org.json.JSONObject;
 
 
 public class RetrieveAPI extends AsyncTask<String,Void,String> {
-    private static final String CLIENT_ID = "whic0bvguxirq6g0v18xbn1vmjfd44";
+    private static final String CLIENT_ID = "";
     private static final String URL_GETSTREAM = "https://api.twitch.tv/kraken/streams/";
 
     TextView textV;
